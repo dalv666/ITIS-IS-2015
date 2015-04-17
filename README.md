@@ -5,7 +5,7 @@
 
 ##### Задания:
 
-###### Задание№?
+###### Задание№1
   <ul>
       <li>Построить запрос: <code>найти человека, имеющего наибольшее число знакомых</code></li>
   </ul>
@@ -21,7 +21,7 @@ GROUP BY ?friend
 ORDER BY DESC(?countFriend)
 ```
 
-###### Задание№?
+###### Задание№2
   <ul>
       <li>Расширить свой foaf-profile</li>
   </ul>
@@ -58,7 +58,7 @@ ORDER BY DESC(?countFriend)
 						prefersOS		<http://dbpedia.org/resource/Android_(operating_system)>,
 										<http://dbpedia.org/resource/Windows_8>.
 ```
-###### Задание№?
+###### Задание№3
   <ul>
       <li>Коррелирование биномиальных векторов</li>
   </ul>
