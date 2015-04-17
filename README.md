@@ -6,7 +6,10 @@
 ##### Задания:
 
 ###### Задание№?
-Построить запрос <code>Найти человека имеющего наибольшее число знакомых</code>
+  <ul>
+      <li>Построить запрос <code>Найти человека имеющего наибольшее число знакомых</code></li>
+  </ul>
+
 ```
 PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
 SELECT ?friend, (count (?friend) as ?countFriend)
@@ -19,7 +22,10 @@ ORDER BY DESC(?countFriend)
 ```
 
 ###### Задание№?
-foaf-profile
+  <ul>
+      <li>Расширить свой foaf-profile</li>
+  </ul>
+
 ```
 @prefix : <http://cll.niimm.ksu.ru/swcourse/>.
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
@@ -53,5 +59,8 @@ foaf-profile
 										<http://dbpedia.org/resource/Windows_8>.
 ```
 ###### Задание№?
-Коррелирование биномиальных векторов
+  <ul>
+      <li>Коррелирование биномиальных векторов</li>
+  </ul>
+
 ######Исходники: [sources](src/main/java/su/dalv/itis/is/corelation)
