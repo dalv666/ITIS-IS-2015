@@ -51,7 +51,7 @@ ORDER BY DESC(?countFriend)
 										<http://dbpedia.org/resource/Card_flourish>,
 										<http://dbpedia.org/resource/Grand_Theft_Auto:_Vice_City>;
 						itisLab 		"Android",
-										"JavaLav";
+										"JavaLab";
 						programmingLang <http://dbpedia.org/resource/Java_(programming_language)>,
 										<http://dbpedia.org/resource/Python_(programming_language)>,
 										<http://dbpedia.org/resource/Haskell_(programming_language)>;
